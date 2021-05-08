@@ -3,7 +3,7 @@
 
 These are python programs that i create to improve my problem solving skills and test my python knowlege
 
-All Programs
+List of Programs in this Repo 
 
 1 = Tic Tac Toe Game
 2 = Guess a Number game
