@@ -40,4 +40,4 @@ Num_List = [1, 2, 3, 6, 9, 10, 11, 23, 34, 45] #list must be sorted for this to 
 
 target = 10
 
-print(BinarySearch(Num_List, target)) #returns the position of the number you searched for
+print("An item is found at index: " + str(BinarySearch(Num_List, target))) #returns the position of the number you searched for
