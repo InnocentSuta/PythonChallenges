@@ -4,7 +4,9 @@ These are python programs that i create to improve my problem solving skills and
 
 List of Programs in this Repo 
 
- # 1 `BinarySearch`
+ # 1 `Binary Search`
  # 2 `Guess a Number game`
- # 3 `Leap year check` 
- # 4 `Palindrome check`
+ # 3 `Leap year check`
+ # 4 `Linear Search`
+ # 5 `Palindrome check`
+ 
