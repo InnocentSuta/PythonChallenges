@@ -4,7 +4,7 @@
     
     This program finds the nth term in the fibonacci sequence.
   '''
-def fibonnaci(n):
+def Fibonnaci(n):
     
     if n < 0:
         print("Enter Valid Input")
@@ -16,9 +16,9 @@ def fibonnaci(n):
         return 1
     
     else:
-        return fibonnaci(n - 1) + fibonnaci( n - 2)
+        return Fibonnaci(n - 1) + Fibonnaci( n - 2)
     
-print(fibonnaci(10))
+print(Fibonnaci(12))
 
 '''
 By Innocent Suta 
