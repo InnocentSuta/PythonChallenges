@@ -21,8 +21,7 @@ def BinarySearch(Num_List, target, low=None,high=None):
     #Target is Not in the list    
     if high < low:
         return -1
-        
-        
+          
     mid = (low + high ) // 2 ## 2
     
     if Num_List[mid] == target:
@@ -34,7 +33,6 @@ def BinarySearch(Num_List, target, low=None,high=None):
     
     else:
         return BinarySearch(Num_List, target, mid + 1, high)
-
 
 Num_List = [1, 2, 3, 6, 9, 10, 11, 23, 34, 45] #list must be sorted for this to work properly
 
